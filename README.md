@@ -3,7 +3,7 @@
 
 #### If you want to view the deployed model, click on the following link:
 
-• https://kidney-disease.herokuapp.com/
+• http://viveksaxena.pythonanywhere.com/
 
 
 ## image
