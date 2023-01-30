@@ -67,42 +67,7 @@ Store as separate version
 ```bash
   git commit -m 'message'
 ```
-### Deployment on Heroku
-
-Heroku login on git bash
-
-```bash
-  heroku login
-```
-Create new app
-
-```bash
-  heroku create
-```
-Push Code
-```bash
-  git remote -v
-```
-Push code to Master Branch
-```bash
-  git push heroku master
-```
-
   
-## Related topics
-
-Here are some related projects
-
-
-[Liver Disease]
-
-[Heart Disease]
-
-[Diabetes Disease]
-
-[Stroke Prediction]
-
-[Breast Cancer Disease]
   
 ## Feedback
 
